@@ -1,0 +1,2 @@
+.map doesnt change original list
+.shuffle changes the original list
